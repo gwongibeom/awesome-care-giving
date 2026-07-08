@@ -6,3 +6,7 @@
 
 - 🇰🇷 [한국어](docs/ko/README.md)
 - 🇺🇸 [English](docs/en/README.md)
+
+## 라이선스 / License
+
+[MIT](LICENSE)
