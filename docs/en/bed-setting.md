@@ -1,9 +1,8 @@
----
-title: How to Set Up a Patient's Bed
-description: A multi-layer bed sheet setup that makes diaper changes and soiled-sheet handling easier for bedridden patients, from the base sheet to the disposable hygiene mat.
----
+# About the Patient's Bed
 
 Patients with limited mobility—such as those in the early stages of recovery from a brain hemorrhage—often find it hard to reach the toilet, so they wear diapers and relieve themselves in bed. When the sheets get soiled, they have to be changed over and over, so the bed needs to be set up in a way that reduces this burden.
+
+# How to Set Up a Patient's Bed
 
 When setting up the bed of a bedridden patient, the top priority is **how easily you can handle the patient's bodily waste**. The following approach helps with this.
 
@@ -13,7 +12,7 @@ Layering the sheets keeps soiling contained to the smallest possible area. The k
 
 Arrange the sheets from bottom to top as follows.
 
-![Multi-layer bed sheet setup steps](/images/bed-sheet-steps.png)
+![bed-sheet-setup](../../images/bed-sheet-steps.png)
 
 1. **Base sheet (fitted / mattress-cover type)**: The bottom layer that covers the entire mattress. The goal of the multi-layer setup is to keep soiling from ever reaching this sheet. Replacing it is the most demanding task, since you have to move or roll the patient to change it. Use an elastic-band (fitted) type that anchors firmly to the mattress; a waterproof one is even safer.
 
@@ -23,7 +22,7 @@ Arrange the sheets from bottom to top as follows.
 
 4. **Disposable hygiene mat (waterproof pad)**: A disposable waterproof pad placed at the very top, right under the patient's hips. It's a consumable that provides the first line of absorption for fluids that inevitably leak during diaper changes; replace it together with the diaper. Use a product with a waterproof backing so the layers below stay protected.
 
-## Operational Tips
+### Operational Tips
 
 - When soiling occurs, remove **only from the top layer down to the soiled layer** and leave the lower layers in place. There's no need to change everything every time.
 - Keeping spare sheets, hygiene mats, and plastic bags for disposing of diapers and pads near the bed at all times greatly shortens your movements—especially during nighttime changes.

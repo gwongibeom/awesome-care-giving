@@ -3,8 +3,6 @@
 > 거동이 불편한 환자를 돌보며 직접 겪고 배운 간병 노하우를 정리하는 저장소입니다.
 > A collection of hands-on care-giving know-how, learned first-hand while caring for a patient with limited mobility.
 
-🌐 **웹으로 보기 / View on the web**: https://awesome-care-giving.pages.dev
-
 갑작스러운 사고나 질병으로 간병을 시작하게 된 분들이 시행착오를 조금이라도 줄일 수 있도록, 실제 경험에서 얻은 정보를 기록하고 공유합니다. 뇌출혈·뇌졸중으로 쓰러진 가족을 돌보며 쌓은 내용에서 출발했습니다.
 
 This repository records and shares practical knowledge from real experience, so that those who suddenly find themselves caring for a loved one can make fewer mistakes along the way. It began with notes taken while caring for a family member who collapsed from a brain hemorrhage.
@@ -14,23 +12,10 @@ This repository records and shares practical knowledge from real experience, so 
 - 🛏️ **침대 세팅 / Bed setting** — 와상환자의 생리현상 처리를 쉽게 하는 다중 시트 구성법
 - 🔗 **도움되는 링크 / Helpful links** — 환자 보호자를 위한 커뮤니티·정보·회복기병원 모음
 
-## 문서 / Documents
+## 언어 / Language
 
-문서 원본은 [`src/content/docs/`](src/content/docs/)에 있습니다 (한국어는 루트, 영어는 `en/`).
-The source documents live in [`src/content/docs/`](src/content/docs/) (Korean at the root, English under `en/`).
-
-- 🇰🇷 [한국어](src/content/docs/)
-- 🇺🇸 [English](src/content/docs/en/)
-
-## 개발 / Development
-
-[Astro Starlight](https://starlight.astro.build/) 기반 문서 사이트입니다.
-
-```sh
-pnpm install
-pnpm dev      # 로컬 개발 서버
-pnpm build    # 정적 빌드 (dist/)
-```
+- 🇰🇷 [한국어](docs/ko/README.md)
+- 🇺🇸 [English](docs/en/README.md)
 
 ## 기여 / Contributing
 
@@ -44,4 +29,4 @@ Any experience or information that could help others in the same situation is we
 
 ---
 
-[편지](src/content/docs/letter-from-maintainer.md) · [letter](src/content/docs/en/letter-from-maintainer.md)
+[편지](docs/ko/letter-from-maintainer.md) · [letter](docs/en/letter-from-maintainer.md)

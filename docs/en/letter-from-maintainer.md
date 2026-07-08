@@ -1,7 +1,4 @@
----
-title: A Letter of Comfort and Compassion
-description: A letter of comfort and compassion for those who suddenly find themselves caring for a loved one.
----
+# A Letter of Comfort and Compassion
 
 On June 23, 2026, I came home from work to find my mother—whom I had always believed to be in good health—collapsed from a brain hemorrhage. I called for an ambulance right away, and I still vividly remember every moment of that first day: the twenty minutes in the ambulance on the way to the university hospital, the hours in the emergency room, her admission to the emergency ICU, the tears I couldn't hold back in my grief, the bedding I hurriedly cleaned up after returning home, and the guilt that washed over me.
 
