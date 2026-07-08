@@ -26,3 +26,7 @@ Any experience or information that could help others in the same situation is we
 ## 라이선스 / License
 
 [MIT](LICENSE)
+
+---
+
+[편지](docs/ko/letter-from-maintainer.md) · [letter](docs/en/letter-from-maintainer.md)
